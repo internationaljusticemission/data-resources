@@ -14,4 +14,8 @@ Hopefully some of these resources will educate, inspire, or just be flat out int
 
 ## Machine Learning
 * [Google Crash Course](https://developers.google.com/machine-learning/crash-course) - I really like this for beginners because it starts off with a "How to frame an ML problem" and then prepping data for actual analysis. Most ML training just jumps into nicely formatted data, which is just a cruel trick. 
-* [Andrew Ng's Coursera course](https://www.coursera.org/learn/machine-learning) - This is how I learned ML. Requires a bit of stats background, but fairly accessible to most. My one issue is that it uses Matlab/Octave for the coding assignments, which is super rare language for the general population, but you could use R or Python with the datasets instead.
+* [Andrew Ng's Coursera course](https://www.coursera.org/learn/machine-learning) - this is how I learned ML. Requires a bit of stats background, but fairly accessible to most. My one issue is that it uses Matlab/Octave for the coding assignments, which is super rare language for the general population, but you could use R or Python with the datasets instead.
+
+## Data in Slavery
+* [Delta 8.7](https://delta87.org/what-is-delta-8-7/) - UN organized group focused on measuring SDG 8.7 and using data to achieve the goal. You can signup for a newsletter for Delta 8.7 to keep up with how data is being used across the space. A subgroup, Code 8.7, is specifically focusd on bringing data science and tech to the problem of slavery and forced labor.  
+* 
