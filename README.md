@@ -1,6 +1,3 @@
-# data-resources
-Curated collection of resources on all things data (analytics, coding, viz, etc.)
-
 # Data Resources for IJM Data Community of Practice
 Hopefully some of these resources will educate, inspire, or just be flat out interesting to you. If you come across any others that you enjoy, feel free to add them!
 
