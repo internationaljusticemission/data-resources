@@ -18,4 +18,4 @@ Hopefully some of these resources will educate, inspire, or just be flat out int
 
 ## Data in Slavery
 * [Delta 8.7](https://delta87.org/what-is-delta-8-7/) - UN organized group focused on measuring SDG 8.7 and using data to achieve the goal. You can signup for a newsletter for Delta 8.7 to keep up with how data is being used across the space. A subgroup, Code 8.7, is specifically focusd on bringing data science and tech to the problem of slavery and forced labor.  
-* 
+* [SDG Data Sets](https://sdgstoday.org/) - Contributed data sets from organizations all focused on measuring the SDGs.
