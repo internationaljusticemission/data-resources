@@ -1,6 +1,10 @@
 # Data Resources for IJM Data Community of Practice :nerd_face:
 Hopefully some of these resources will educate, inspire, or just be flat out interesting to you. If you come across any others that you enjoy, feel free to add them!
 
+## IJM Brand Files
+* [Tableau brand file](Preferences.tps) - IJM Branding colors for Tableau
+* [PowerBI brand file](Theme.json) - IJM Branding colors for PowerBI
+
 ## Currated curations
 * [Data Elixr](https://search.dataelixir.com/) - great collection of what's happening in the data world and covers a wide range of topics. You can also sign up for the weekly newsletter. 
 * [O'Reilly AI and Data](https://www.oreilly.com/emails/newsletters/) - another good collection of data articles. I find some overlap with Data Elixr, but can also be a bit more on the technical side.
